@@ -2,6 +2,8 @@
 
 ## Introduction
 
+![Quantum Computing](https://quantumai.google/static/site-assets/images/marketing/quantum-computing/hero-heading-mobile.jpg)
+
 Quantum computing is a rapidly evolving field at the intersection of computer science and quantum physics. It harnesses the principles of quantum mechanics to perform computations that are infeasible for classical computers.
 
 ## Table of Contents
